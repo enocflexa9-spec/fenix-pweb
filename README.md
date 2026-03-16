@@ -11,7 +11,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/ScottBrabo/aNoobisPweb/main/r
 
 🔑 Key Ilimitada
 ```
-alanssh
+Fenix
 ```
 
 🔄 Sincronizador
